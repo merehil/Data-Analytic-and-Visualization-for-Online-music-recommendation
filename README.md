@@ -1,0 +1,2 @@
+# Data-Analytic-and-Visualization-for-Online-music-recommendation
+The Online Music Recommender system was trying to identify songs, which are most relevant to the user. (e.g top n numbers of music offers)   In this project I use popularity based and collaborative based recommendation system to recommend the popular music by counting number of times listened and ranking them and by personalize each users interest based on their emotions respectively.  
